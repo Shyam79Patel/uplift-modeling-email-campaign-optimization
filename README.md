@@ -1,6 +1,6 @@
 # Kevin Hillstrom MineThatData : Email Analytics & Campaign Optimization
 
-A complete customer analytics project built on Kevin Hillstrom's real-world email marketing experiment. The goal was not just to ask *"who will buy?"* — but to answer the harder and more valuable question: **"who bought because of the email?"**
+A complete customer analytics project built on Kevin Hillstrom's real-world email marketing experiment. The goal was not just to ask *"who will buy?"* but to answer the harder and more valuable question: **"who bought because of the email?"**
 
 ---
 
@@ -18,7 +18,6 @@ This project tackles exactly that.
 
 - **Source:** Kevin Hillstrom's MineThatData Email Analytics Challenge (2008)
 - **Size:** 64,000 customers, 12 features
-- **Type:** Randomized Controlled Trial (RCT) — perfectly balanced across 3 groups
 - **Target variables:** `visit`, `conversion`, `spend`
 
 ---
@@ -81,7 +80,7 @@ Combining RFM segments with uplift scores gives a precise targeting matrix:
 | #2 | Champions + Persuadable | 2,557 | Strong uplift, best spending history |
 | #3 | Loyal + Persuadable | 859 | Consistent responders |
 | #4 | Lost + Persuadable | 851 | Cold but surprisingly responsive |
-| Never email | Any Sleeping Dog | 10,414 | Negative uplift — leave them alone |
+| Never email | Any Sleeping Dog | 10,414 | Negative uplift, leave them alone |
 
 **Bottom line:** Instead of emailing all 42,000 customers, focus the entire budget on 5,308 persuadables. Same or better conversions. A fraction of the cost.
 
