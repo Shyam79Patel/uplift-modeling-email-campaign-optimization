@@ -1,4 +1,4 @@
-# Kevin Hillstrom MineThatData — Email Analytics & Campaign Optimization
+# Kevin Hillstrom MineThatData : Email Analytics & Campaign Optimization
 
 A complete customer analytics project built on Kevin Hillstrom's real-world email marketing experiment. The goal was not just to ask *"who will buy?"* — but to answer the harder and more valuable question: **"who bought because of the email?"**
 
